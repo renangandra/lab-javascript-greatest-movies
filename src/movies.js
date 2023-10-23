@@ -35,6 +35,7 @@ function dramaMoviesScore(moviesArray) {
         console.log(dramaArray)
   
       return scoresAverage(dramaArray)
+      
 }
 
 // Iteration 5: Ordering by year - Order by year, ascending (in growing order)
